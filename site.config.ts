@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Soren Pan',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'soren-pan.vercel.app',
   author: 'Soren Pan',
 
   // open graph metadata (optional)
   description: '欢迎来到我的个人网站',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  github: 'ToBeBetter755',
+  twitter: 'olinc119348',
+  // github: 'ToBeBetter755',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
